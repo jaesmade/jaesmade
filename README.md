@@ -7,7 +7,7 @@
 <div align="center">
   <a href="mailto:jaesmade@gmail.com"><img src="https://img.shields.io/badge/jaesmade%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="jaesmade@gmail.com" /></a>
   <a href="https://jaesmade.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/joshandrew.esmade/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
 </div>
 
@@ -38,14 +38,14 @@ Computer Science graduate specializing in Intelligent Systems (2025). I build we
 
 ### Automation
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Playwright](assets/badges/playwright.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![PowerShell](assets/badges/powershell.svg)
 
 ### Machine Learning & AI Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![ChatGPT](assets/badges/chatgpt.svg)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge)
 ![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=for-the-badge)
