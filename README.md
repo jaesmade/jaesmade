@@ -14,7 +14,6 @@
 
 - Bachelor of Science in Computer Science (BSCS) Major in Intelligent Systems Graduate (2025)
 - Interested in AI Automation, Workflow Automation, and QA Automation
-- Experienced Building Systems with Workflow Automations and hands on QA Automations
 
 ## Tech Stack
 
@@ -51,6 +50,7 @@
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
