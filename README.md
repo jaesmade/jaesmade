@@ -42,7 +42,7 @@ Computer Science graduate specializing in Intelligent Systems (2025). I build we
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
 
-### AI / ML
+### Machine Learning & AI Tools
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00897B?style=for-the-badge)
