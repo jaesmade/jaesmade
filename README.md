@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Josh Andrew Aduana Esmade</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&width=435&lines=Sofware+Developer;Automation+Specialist" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&width=435&lines=Software+Developer;Automation+Specialist" alt="Headline" />
 </div>
 
 <div align="center">
