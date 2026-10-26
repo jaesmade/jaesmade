@@ -65,6 +65,6 @@
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/
-- Portfolio: jaesmade.github.io
-- Email: jaesmade@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaesmade@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaesmade.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/)
