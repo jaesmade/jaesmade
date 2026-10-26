@@ -68,9 +68,3 @@
 - LinkedIn: https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/
 - Portfolio: jaesmade.github.io
 - Email: jaesmade@gmail.com
-
-## Fun Fact
-
-I enjoy turning ideas into products, experimenting with new technologies, and continuously improving my craft.
-
----
