@@ -8,6 +8,7 @@
   <a href="mailto:jaesmade@gmail.com"><img src="https://img.shields.io/badge/jaesmade%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="jaesmade@gmail.com" /></a>
   <a href="https://jaesmade.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/joshandrew.esmade/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
 </div>
 
 ## About Me
