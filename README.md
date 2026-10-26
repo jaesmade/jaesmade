@@ -1,16 +1,14 @@
 <h1 align="center">Hi, I'm Josh Andrew Aduana Esmade</h1>
 
+<div align="center">
 [![jaesmade@gmail.com](https://img.shields.io/badge/jaesmade%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaesmade@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaesmade.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/josh-andrew-esmade-6367b43a9/)
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&width=435&lines=Sofware+Developer;Automation+Specialist" alt="Headline" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaesmade&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=for-the-badge" alt="Profile views" />
-</p>
 
 ## About Me
 
