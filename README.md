@@ -12,6 +12,8 @@
 
 ## About Me
 
+Computer Science graduate specializing in Intelligent Systems (2025). I build web applications, automate workflows, and develop automated tests, with interests in AI-powered automation and software quality.
+
 - Bachelor of Science in Computer Science (BSCS) Major in Intelligent Systems Graduate (2025)
 - Interested in AI Automation, Workflow Automation, and QA Automation
 
