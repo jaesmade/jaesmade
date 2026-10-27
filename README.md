@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Josh Andrew Aduana Esmade</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&width=435&lines=Software+Developer;Automation+Specialist" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&width=435&lines=Software+Developer;Automation+Enthusiast" alt="Headline" />
 </div>
 
 <div align="center">
@@ -68,12 +68,6 @@ Computer Science graduate specializing in Intelligent Systems (2025). I build we
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## Current Focus
-
-- Building practical web applications
-- Improving frontend and backend architecture
-- Learning Automation Engineering
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaesmade&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=for-the-badge" alt="Profile views" />
