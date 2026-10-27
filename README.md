@@ -69,6 +69,8 @@ Computer Science graduate specializing in Intelligent Systems (2025). I build we
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+###
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaesmade&amp;label=Profile%20Views&amp;color=0A66C2&amp;style=for-the-badge" alt="Profile views" />
 </p>
